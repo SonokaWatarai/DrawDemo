@@ -13,7 +13,7 @@ public class Show1 {
         //关键点4：使用add方法添加新创建子类（ExtendsPanel1）的实例
         frame.add(new ExtendsPanel1());
 
-        frame.setBounds(200, 200, 1000, 760);
+        frame.setBounds(470, 150, 1000, 760);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
     }

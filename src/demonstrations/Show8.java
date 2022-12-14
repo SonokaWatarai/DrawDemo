@@ -7,7 +7,7 @@ public class Show8 {
     public static void main(String[] args) {
         JFrame frame = new JFrame("这是一个写字板");
         frame.add(new ExtendsPanel8());
-        frame.setBounds(200, 200, 500, 380);
+        frame.setBounds(470, 150, 1000, 760);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
     }
